@@ -1,0 +1,17 @@
+
+#logo-link{
+  z-index:10;
+  display: block;
+  text-align: center;
+  margin: 50px 0px 0px 0px;
+}
+
+#link-text{
+  text-align:center;
+  display: block;
+  font-family: 'Monda';
+  text-decoration: none;
+  font-size: 20pt;
+  color: rgb(0, 0, 0);
+
+}
