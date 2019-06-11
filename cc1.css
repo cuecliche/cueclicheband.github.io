@@ -1,3 +1,6 @@
+body{
+  background-color: black;
+}
 
 #logo-link{
   z-index:10;
@@ -12,6 +15,6 @@
   font-family: 'Monda';
   text-decoration: none;
   font-size: 20pt;
-  color: rgb(0, 0, 0);
+  color: white;
 
 }
